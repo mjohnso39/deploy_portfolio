@@ -9,10 +9,11 @@ A simple, responsive personal portfolio site with four sections: Home, About, Pr
 - `app.js` - opens/closes the mobile nav menu
 
 ## UI/UX Decisions
-- **Colors:** A dark navy header/footer (#1f2937) paired with a blue accent (#2f6fed) for buttons and links, on a white/light-gray background. This keeps contrast high for readability and accessibility.
+- **Colors:** A dark navy header/footer paired with a blue accent for buttons and links, on a light-gray background. This keeps contrast high for readability and accessibility.
 - **Fonts:** A single system font stack keeps load times fast and text consistent across devices.
-- **Spacing:** Generous padding around sections and a max content width (900-1100px) prevent text from stretching too wide on large screens, which improves readability.
+- **Spacing:** Generous padding around sections and a max content width prevent text from stretching too wide on large screens, improving readability.
 - **Responsiveness:** The project cards go from 3 columns, to 2, to 1 as the screen narrows, and the nav bar collapses into a hamburger menu on phones.
+- **Reflection:** Combining these aspects improves readability for users while still appearing aesthetically pleasing for viewers to use whenever needed. The single system font stack keeps a consistent feeling while improving load times.
 
 ## Deployment Steps
 
